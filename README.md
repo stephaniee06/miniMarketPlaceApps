@@ -1,50 +1,37 @@
-# Welcome to your Expo app 👋
+Mini Marketplace App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A. DEMO VIDEO 
+  
 
-## Get started
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+B. GETTING STARTED
+To get your development environment up and running, follow these two steps:
 
-   ```bash
-   npx expo start
-   ```
+- Install dependencies
+- Bash
+- npm install
+- Start the development server
+- Bash
+- npx expo start
 
-In the output, you'll find options to open the app in a
+B. OVERVIEW
+This is a modern mobile application project built with Expo. It utilizes file-based routing to streamline the development process across Android, iOS, and the Web. It serves as a robust foundation for building universal apps using React Native.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+C. PLATFORMS & TOOLS
+- Development Build: Create a custom build for full control over native modules.
+- Expo Go: A sandbox environment to quickly test your app without compiling native code.
+- Android Emulator: Test your app on a virtual Android device via Android Studio.
+- iOS Simulator: Test your app on a virtual iPhone/iPad (macOS only).
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+D. TECH STACK
+- Framework: Expo
+- Library: React Native
+- Routing: Expo Router (File-based)
+- Package Manager: npm
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+E. WORKFLOW & STRUCTURE
+- Development: Edit files within the /app directory to update your screens.
+- Reset Project: Run npm run reset-project to move the example code to /app-example and start with a blank canvas.
+- Learning: Access the Expo Documentation or the official Step-by-Step Tutorial for deeper insights.
