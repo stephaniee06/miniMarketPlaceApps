@@ -1,10 +1,7 @@
 Mini Marketplace App
 
 A. DEMO VIDEO 
-  
-
-
-
+https://github.com/user-attachments/assets/5170cc9e-f1ca-4d15-a126-2304655a361d
 
 B. GETTING STARTED
 To get your development environment up and running, follow these two steps:
